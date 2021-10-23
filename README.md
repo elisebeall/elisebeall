@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **[Express](http://expressjs.com)**
 
-- 📝 I have writen articles on [http://elisejbeall.wordpress.com](http://elisejbeall.wordpress.com)
+- 📝 I have writen articles on Technology in Education @ [http://elisejbeall.wordpress.com](http://elisejbeall.wordpress.com)
 
 - 📫 How to reach me **elisebeall@gmail.com**
 
