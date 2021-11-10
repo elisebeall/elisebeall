@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Elise</h1>
 <h3>Lifelong lover of code. Curiosity-driven. Problem-tackler. Deep knowledge of customer service. Lover of squirrels.</h3>
 
-- 🔭 I’m currently working on [Rancid Tomatillos](https://github.com/natesheridan/rancid-tomatillos)
+- 🔭 I’m currently working on [natuur](https://github.com/elisebeall/natuur)
 
-- 🌱 I’m currently learning **[Express](http://expressjs.com)**
+- 🌱 I’m currently learning **[KnexJS](http://knexjs.org)**
 
 - 📝 I have writen articles on Technology in Education @ [http://elisejbeall.wordpress.com](http://elisejbeall.wordpress.com)
 
