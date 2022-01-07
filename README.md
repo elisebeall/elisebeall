@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Elise</h1>
 <h3>Lifelong lover of code. Curiosity-driven. Problem-tackler. Deep knowledge of customer service. Lover of squirrels.</h3>
 
-- 🔭 I’m currently working on [natuur](https://github.com/elisebeall/natuur)
+- 🔭 I’m currently working on [natuur](https://github.com/elisebeall/dnd-spells)
 
-- 🌱 I’m currently learning **[KnexJS](http://knexjs.org)**
+- 🌱 I’m currently learning **[Global State Management using Context](https://reactjs.org/docs/context.html)**
 
 - 📝 I have writen articles on Technology in Education @ [http://elisejbeall.wordpress.com](http://elisejbeall.wordpress.com)
 
