@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Elise</h1>
 <h3>Lifelong lover of code. Curiosity-driven. Problem-tackler. Deep knowledge of customer service. Lover of squirrels.</h3>
 
-- 🔭 I’m currently working on [Squizard's Spells](https://github.com/elisebeall/dnd-spells)
+- 🔭 I’m currently working on [Squizard's Spells](https://github.com/elisebeall/dnd-spells) & [spacecase](https://github.com/elisebeall/spacecase)
 
 - 🌱 I’m currently learning **[Global State Management using Context](https://reactjs.org/docs/context.html)**
 
