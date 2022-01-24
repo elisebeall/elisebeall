@@ -4,7 +4,7 @@
 
 <h3>Coding since high school, and my late 90s CSS skills can prove that fact 😂 
   
-<h3>Curiosity-driven. Problem-tackler. **72% perfectionist**.
+<h3>Curiosity-driven. Problem-tackler. *72% perfectionist*.
 
 <h3>Former cook, manager, server, host, dishwasher, etc.  Most recently dedicated my life to national & local political campaigns.
   
