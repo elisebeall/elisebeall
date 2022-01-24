@@ -1,3 +1,4 @@
+<html font-size="15px">
 <h1>Hey there! 👋, I'm Elise</h1>
 
 <h3>Mom to a rocket-obsessed high-school freshman. I love things that go fast: bikes, horses, cars. Currently building or dismantling something.</h3>
@@ -35,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elisebeall&show_icons=true&locale=en" alt="elisebeall" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elisebeall&" alt="elisebeall" /></p>
+
+<html>
