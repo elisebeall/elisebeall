@@ -1,4 +1,4 @@
-<h1>Hey there! 👋.  I'm Elise</h1>
+<h1>Hey there! 👋  I'm Elise</h1>
 
 <h3>Mom to a rocket-obsessed high-school freshman. I love things that go fast: bikes, horses, cars. Currently building or dismantling something.</h3>
 
@@ -9,7 +9,10 @@
 <h3>Former cook, manager, server, host, dishwasher, etc.  Most recently dedicated my life to national & local political campaigns.</h3>
   
 <h3>Lover of squirrels. And all the other critters too!</h3>
-<p style="font-size:60px;">🐥🦉🐺🐴🐝🐛🦋🐞🕷🐢🦎🐙🦞🐠🐳🦭🐊🐅🦍🐘🐪🦘🦬🐄🐖🐑🐐🦮🐈🐓🦃🦜🐇🦝🦡🦦🐀🐿🦔</h1>
+
+<h1 align="center">🐥🦉🐺🐴🐝🐛🦋🐞🕷🐢🦎🐙🦞🐠🐳🦭🐊🐅🦍</h1>
+<h1 align="center">🐘🐪🦘🦬🐄🐖🐑🐐🦮🐈🐓🦃🦜🐇🦝🦡🦦🐀🐿🦔</h1>
+
 
 - 🔭 I’m currently working on [Squizard's Spells](https://github.com/elisebeall/dnd-spells) & [spacecase](https://github.com/elisebeall/spacecase)
 
