@@ -1,7 +1,4 @@
 <h1>Hi 👋, I'm Elise</h1>
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 <h3>Mom to a rocket-obsessed high-school freshman. I love things that go fast: bikes, horses, cars. Currently building or dismantling something.
 
