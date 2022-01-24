@@ -1,12 +1,12 @@
-<h1>Hi 👋, I'm Elise</h1>
+<h1>Hey there! 👋, I'm Elise</h1>
 
-<h3>Mom to a rocket-obsessed high-school freshman. I love things that go fast: bikes, horses, cars. Currently building or dismantling something.
+<h3>Mom to a rocket-obsessed high-school freshman. I love things that go fast: bikes, horses, cars. Currently building or dismantling something.</h3>
 
-<h3>Coding since high school, and my late 90s CSS skills can prove that fact 😂 
+<h3>Coding since high school, and my late 90s CSS skills can prove that fact 😂 </h3>
   
-<h3>Curiosity-driven. Problem-tackler. *72% perfectionist*.
+<h3>Curiosity-driven. Problem-tackler. 72% perfectionist.</h3>
 
-<h3>Former cook, manager, server, host, dishwasher, etc.  Most recently dedicated my life to national & local political campaigns.
+<h3>Former cook, manager, server, host, dishwasher, etc.  Most recently dedicated my life to national & local political campaigns.</h3>
   
 <h3>Lover of squirrels.  And all the critters! 🐥🦉🐺🐴🐝🐛🦋🐞🕷🐢🦎🐙🦞🐠🐳🦭🐊🐅🦍🐘🐪🦘🦬🐄🐖🐑🐐🦮🐈🐓🦃🦜🐇🦝🦡🦦🐀🐿🦔</h3>
 
