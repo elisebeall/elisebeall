@@ -14,9 +14,9 @@
 <h1 align="center">🐘🐪🦘🦬🐄🐖🐑🐐🦮🐈🐓🦃🦜🐇🦝🦡🦦🐀🐿🦔</h1>
 
 
-- 🔭 I’m currently working on [Squizard's Spells](https://github.com/elisebeall/dnd-spells) & [spacecase](https://github.com/elisebeall/spacecase)
+- 🔭 I’m currently working on [Mi Voz, Mi Voto](https://github.com/mi-voz-mi-voto) 
 
-- 🌱 I’m currently learning **[Global State Management using Context](https://reactjs.org/docs/context.html)**
+- 🌱 I’m currently learning **[l18n - localization](https://pypi.org/project/l18n/)**
 
 - 📝 I have writen articles on Technology in Education @ [http://elisejbeall.wordpress.com](http://elisejbeall.wordpress.com)
 
@@ -26,8 +26,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/elisebeall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elisebeall" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/elisebeall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elisebeall" height="30" width="40" /></a>
+<a href="https://twitter.com/elisecodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elisebeall" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/elisejbeall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elisebeall" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
