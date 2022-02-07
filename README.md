@@ -2,7 +2,7 @@
 
 <h3>Mom to a rocket-obsessed high-school freshman. I love things that go fast: bikes, horses, cars. Currently building or dismantling something.</h3>
 
-<h3>Coding since high school, and my late 90s CSS skills can prove that fact 😂 </h3>
+<h3>Writing code since high school, and my circa-the-year 2000 CSS skills can prove that fact 😂 </h3>
   
 <h3>Curiosity-driven. Problem-tackler. 72% perfectionist.</h3>
 
