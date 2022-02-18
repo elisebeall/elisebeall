@@ -6,7 +6,7 @@
   
 <h3>Curiosity-driven. Problem-tackler. 72% perfectionist.</h3>
 
-<h3>Former cook, manager, server, host, dishwasher, etc.  Most recently dedicated my life to national & local political campaigns.</h3>
+<h3>Former cook, manager, server, host, dishwasher, all around restaurant professional.  Most recently dedicated my life to national & local political campaigns.</h3>
   
 <h3>Lover of squirrels. And all the other critters too!</h3>
 
@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [Mi Voz, Mi Voto](https://github.com/mi-voz-mi-voto) 
 
-- 🌱 I’m currently learning **[l18n - localization](https://pypi.org/project/l18n/)**
+- 🌱 I’m currently learning **[l18n - localization](https://formatjs.io/docs/react-intl/)**
 
 - 📝 I have writen articles on Technology in Education @ [http://elisejbeall.wordpress.com](http://elisejbeall.wordpress.com)
 
